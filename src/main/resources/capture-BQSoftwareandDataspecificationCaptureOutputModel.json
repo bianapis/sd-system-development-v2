@@ -1,0 +1,24 @@
+{
+  "softwareandDataSpecificationInstanceRecord" : {
+    "softwareandDataSpecificationTaskWorkProducts" : "softwareandDataSpecificationTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "714652",
+    "softwareandDataSpecificationTaskDefinition" : "softwareandDataSpecificationTaskDefinition"
+  },
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "captureResponseRecord" : {},
+  "softwareandDataspecificationCaptureRecordReference" : "SADSCRR703082",
+  "softwareandDataspecificationCaptureActionTaskReference" : "SADSCATR741539",
+  "softwareandDataspecificationCaptureActionTaskRecord" : {}
+}

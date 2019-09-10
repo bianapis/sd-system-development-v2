@@ -1,0 +1,12 @@
+{
+  "softwareandDataSpecificationInstanceRecord" : {
+    "softwareandDataSpecificationTaskWorkProducts" : "softwareandDataSpecificationTaskWorkProducts",
+    "systemSoftwareandDataSpecification" : "systemSoftwareandDataSpecification",
+    "documentDirectoryEntryInstanceReference" : "775399",
+    "softwareandDataSpecificationTaskDefinition" : "softwareandDataSpecificationTaskDefinition"
+  },
+  "softwareandDataspecificationRequestRecordReference" : "SADSRRR719346",
+  "softwareandDataspecificationRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "softwareandDataspecificationRequestActionTaskReference" : "SADSRATR721841"
+}

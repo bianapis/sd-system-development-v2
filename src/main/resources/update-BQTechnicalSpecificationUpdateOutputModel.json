@@ -1,0 +1,11 @@
+{
+  "technicalSpecificationUpdateActionTaskReference" : "TSUATR770107",
+  "updateResponseRecord" : {},
+  "technicalSpecificationInstanceRecord" : {
+    "technicalSpecificationTaskDefinition" : "technicalSpecificationTaskDefinition",
+    "technicalSpecificationTaskWorkProducts" : "technicalSpecificationTaskWorkProducts",
+    "systemTechnicalSpecification" : "systemTechnicalSpecification",
+    "documentDirectoryEntryInstanceReference" : "700988"
+  },
+  "technicalSpecificationUpdateActionTaskRecord" : {}
+}

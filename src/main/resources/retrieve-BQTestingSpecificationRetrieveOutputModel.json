@@ -1,0 +1,36 @@
+{
+  "testingSpecificationRetrieveActionTaskRecord" : {},
+  "testingSpecificationInstanceRecord" : {
+    "testingSpecificationTaskDefinition" : "testingSpecificationTaskDefinition",
+    "testingSpecificationTaskWorkProducts" : "testingSpecificationTaskWorkProducts",
+    "systemTestingSpecification" : "systemTestingSpecification",
+    "documentDirectoryEntryInstanceReference" : "771655"
+  },
+  "testingSpecificationInstanceReport" : {
+    "testingSpecificationInstanceReportType" : "testingSpecificationInstanceReportType",
+    "testingSpecificationInstanceReport" : {},
+    "testingSpecificationInstanceReportRecord" : {},
+    "testingSpecificationInstanceReportParameters" : "testingSpecificationInstanceReportParameters"
+  },
+  "testingSpecificationRetrieveActionResponse" : "testingSpecificationRetrieveActionResponse",
+  "testingSpecificationInstanceAnalysis" : {
+    "testingSpecificationInstanceAnalysisParameters" : "testingSpecificationInstanceAnalysisParameters",
+    "testingSpecificationInstanceAnalysisRecord" : {},
+    "testingSpecificationInstanceAnalysisReportType" : "testingSpecificationInstanceAnalysisReportType",
+    "testingSpecificationInstanceAnalysisReport" : {}
+  },
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "testingSpecificationRetrieveActionTaskReference" : "TSRATR773178"
+}

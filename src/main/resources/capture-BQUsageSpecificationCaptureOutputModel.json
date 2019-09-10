@@ -1,0 +1,24 @@
+{
+  "usageSpecificationCaptureRecordReference" : "USCRR710891",
+  "usageSpecificationCaptureActionTaskRecord" : {},
+  "usageSpecificationCaptureActionTaskReference" : "USCATR723470",
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "captureResponseRecord" : {},
+  "usageSpecificationInstanceRecord" : {
+    "usageSpecificationTaskDefinition" : "usageSpecificationTaskDefinition",
+    "usageSpecificationTaskWorkProducts" : "usageSpecificationTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "767677"
+  }
+}

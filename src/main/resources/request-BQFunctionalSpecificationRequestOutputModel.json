@@ -1,0 +1,12 @@
+{
+  "functionalSpecificationRequestActionTaskReference" : "FSRATR702313",
+  "functionalSpecificationRequestActionTaskRecord" : {},
+  "functionalSpecificationInstanceRecord" : {
+    "functionalSpecificationTaskDefinition" : "functionalSpecificationTaskDefinition",
+    "systemFunctionalSpecification" : "systemFunctionalSpecification",
+    "functionalSpecificationTaskWorkProducts" : "functionalSpecificationTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "714409"
+  },
+  "functionalSpecificationRequestRecordReference" : "FSRRR744606",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,11 @@
+{
+  "testingSpecificationUpdateActionTaskRecord" : {},
+  "testingSpecificationInstanceRecord" : {
+    "testingSpecificationTaskDefinition" : "testingSpecificationTaskDefinition",
+    "testingSpecificationTaskWorkProducts" : "testingSpecificationTaskWorkProducts",
+    "systemTestingSpecification" : "systemTestingSpecification",
+    "documentDirectoryEntryInstanceReference" : "794002"
+  },
+  "updateResponseRecord" : {},
+  "testingSpecificationUpdateActionTaskReference" : "TSUATR767498"
+}

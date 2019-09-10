@@ -1,0 +1,36 @@
+{
+  "usageSpecificationRetrieveActionResponse" : "usageSpecificationRetrieveActionResponse",
+  "usageSpecificationRetrieveActionTaskRecord" : {},
+  "usageSpecificationInstanceReport" : {
+    "usageSpecificationInstanceReportRecord" : {},
+    "usageSpecificationInstanceReport" : {},
+    "usageSpecificationInstanceReportType" : "usageSpecificationInstanceReportType",
+    "usageSpecificationInstanceReportParameters" : "usageSpecificationInstanceReportParameters"
+  },
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "usageSpecificationRetrieveActionTaskReference" : "USRATR774667",
+  "usageSpecificationInstanceAnalysis" : {
+    "usageSpecificationInstanceAnalysisRecord" : {},
+    "usageSpecificationInstanceAnalysisParameters" : "usageSpecificationInstanceAnalysisParameters",
+    "usageSpecificationInstanceAnalysisReportType" : "usageSpecificationInstanceAnalysisReportType",
+    "usageSpecificationInstanceAnalysisReport" : {}
+  },
+  "usageSpecificationInstanceRecord" : {
+    "usageSpecificationTaskDefinition" : "usageSpecificationTaskDefinition",
+    "usageSpecificationTaskWorkProducts" : "usageSpecificationTaskWorkProducts",
+    "systemFunctionalSpecification" : "systemFunctionalSpecification",
+    "documentDirectoryEntryInstanceReference" : "769435"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "functionalSpecificationCaptureActionTaskReference" : "FSCATR731908",
+  "functionalSpecificationCaptureActionTaskRecord" : {},
+  "functionalSpecificationInstanceRecord" : {
+    "functionalSpecificationTaskDefinition" : "functionalSpecificationTaskDefinition",
+    "functionalSpecificationTaskWorkProducts" : "functionalSpecificationTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "767239"
+  },
+  "functionalSpecificationCaptureRecordReference" : "FSCRR710549",
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "captureResponseRecord" : {}
+}

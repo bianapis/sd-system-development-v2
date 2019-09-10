@@ -1,0 +1,36 @@
+{
+  "softwareandDataspecificationInstanceAnalysis" : {
+    "softwareandDataspecificationInstanceAnalysisRecord" : {},
+    "softwareandDataspecificationInstanceAnalysisReportType" : "softwareandDataspecificationInstanceAnalysisReportType",
+    "softwareandDataspecificationInstanceAnalysisReport" : {},
+    "softwareandDataspecificationInstanceAnalysisParameters" : "softwareandDataspecificationInstanceAnalysisParameters"
+  },
+  "softwareandDataSpecificationInstanceRecord" : {
+    "softwareandDataSpecificationTaskWorkProducts" : "softwareandDataSpecificationTaskWorkProducts",
+    "systemSoftwareandDataSpecification" : "systemSoftwareandDataSpecification",
+    "documentDirectoryEntryInstanceReference" : "713735",
+    "softwareandDataSpecificationTaskDefinition" : "softwareandDataSpecificationTaskDefinition"
+  },
+  "softwareandDataspecificationInstanceReport" : {
+    "softwareandDataspecificationInstanceReportType" : "softwareandDataspecificationInstanceReportType",
+    "softwareandDataspecificationInstanceReportParameters" : "softwareandDataspecificationInstanceReportParameters",
+    "softwareandDataspecificationInstanceReport" : {},
+    "softwareandDataspecificationInstanceReportRecord" : {}
+  },
+  "softwareandDataspecificationRetrieveActionTaskReference" : "SADSRATR781573",
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "softwareandDataspecificationRetrieveActionTaskRecord" : {},
+  "softwareandDataspecificationRetrieveActionResponse" : "softwareandDataspecificationRetrieveActionResponse"
+}

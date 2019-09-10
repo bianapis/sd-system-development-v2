@@ -1,0 +1,36 @@
+{
+  "technicalSpecificationRetrieveActionTaskReference" : "TSRATR762412",
+  "technicalSpecificationInstanceReport" : {
+    "technicalSpecificationInstanceReport" : {},
+    "technicalSpecificationInstanceReportRecord" : {},
+    "technicalSpecificationInstanceReportParameters" : "technicalSpecificationInstanceReportParameters",
+    "technicalSpecificationInstanceReportType" : "technicalSpecificationInstanceReportType"
+  },
+  "technicalSpecificationRetrieveActionTaskRecord" : {},
+  "technicalSpecificationInstanceRecord" : {
+    "technicalSpecificationTaskDefinition" : "technicalSpecificationTaskDefinition",
+    "technicalSpecificationTaskWorkProducts" : "technicalSpecificationTaskWorkProducts",
+    "systemTechnicalSpecification" : "systemTechnicalSpecification",
+    "documentDirectoryEntryInstanceReference" : "725182"
+  },
+  "technicalSpecificationRetrieveActionResponse" : "technicalSpecificationRetrieveActionResponse",
+  "technicalSpecificationInstanceAnalysis" : {
+    "technicalSpecificationInstanceAnalysisRecord" : {},
+    "technicalSpecificationInstanceAnalysisParameters" : "technicalSpecificationInstanceAnalysisParameters",
+    "technicalSpecificationInstanceAnalysisReportType" : "technicalSpecificationInstanceAnalysisReportType",
+    "technicalSpecificationInstanceAnalysisReport" : {}
+  },
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  }
+}

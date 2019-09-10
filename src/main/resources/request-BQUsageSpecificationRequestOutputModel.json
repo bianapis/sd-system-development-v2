@@ -1,0 +1,12 @@
+{
+  "usageSpecificationRequestActionTaskReference" : "USRATR724566",
+  "usageSpecificationRequestActionTaskRecord" : {},
+  "usageSpecificationRequestRecordReference" : "USRRR705997",
+  "requestResponseRecord" : {},
+  "usageSpecificationInstanceRecord" : {
+    "usageSpecificationTaskDefinition" : "usageSpecificationTaskDefinition",
+    "usageSpecificationTaskWorkProducts" : "usageSpecificationTaskWorkProducts",
+    "systemFunctionalSpecification" : "systemFunctionalSpecification",
+    "documentDirectoryEntryInstanceReference" : "751466"
+  }
+}

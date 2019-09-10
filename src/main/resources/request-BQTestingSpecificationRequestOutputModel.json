@@ -1,0 +1,12 @@
+{
+  "testingSpecificationRequestActionTaskRecord" : {},
+  "testingSpecificationInstanceRecord" : {
+    "testingSpecificationTaskDefinition" : "testingSpecificationTaskDefinition",
+    "testingSpecificationTaskWorkProducts" : "testingSpecificationTaskWorkProducts",
+    "systemTestingSpecification" : "systemTestingSpecification",
+    "documentDirectoryEntryInstanceReference" : "752278"
+  },
+  "testingSpecificationRequestActionTaskReference" : "TSRATR743649",
+  "requestResponseRecord" : {},
+  "testingSpecificationRequestRecordReference" : "TSRRR722242"
+}

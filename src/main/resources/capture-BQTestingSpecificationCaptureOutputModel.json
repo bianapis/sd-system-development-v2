@@ -1,0 +1,24 @@
+{
+  "testingSpecificationCaptureActionTaskRecord" : {},
+  "testingSpecificationInstanceRecord" : {
+    "testingSpecificationTaskDefinition" : "testingSpecificationTaskDefinition",
+    "testingSpecificationTaskWorkProducts" : "testingSpecificationTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "750225"
+  },
+  "testingSpecificationCaptureRecordReference" : "TSCRR764357",
+  "testingSpecificationCaptureActionTaskReference" : "TSCATR727908",
+  "iTSystemDevelopmentProjectInstanceRecord" : {
+    "systemDevelopmentProjectType" : "systemDevelopmentProjectType",
+    "systemDevelopmentImplementationPlan" : {
+      "systemDevelopmentBudget" : "systemDevelopmentBudget",
+      "systemDevelopmentProjectOrganization" : "systemDevelopmentProjectOrganization",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "systemDevelopmentProjectSchedule" : "systemDevelopmentProjectSchedule"
+    },
+    "systemDevelopmentProjectDescription" : "systemDevelopmentProjectDescription",
+    "systemDevelopmentProjectName" : "systemDevelopmentProjectName"
+  },
+  "captureResponseRecord" : {}
+}

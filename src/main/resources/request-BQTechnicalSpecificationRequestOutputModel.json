@@ -1,0 +1,12 @@
+{
+  "technicalSpecificationRequestRecordReference" : "TSRRR763745",
+  "technicalSpecificationRequestActionTaskReference" : "TSRATR777249",
+  "technicalSpecificationRequestActionTaskRecord" : {},
+  "technicalSpecificationInstanceRecord" : {
+    "technicalSpecificationTaskDefinition" : "technicalSpecificationTaskDefinition",
+    "technicalSpecificationTaskWorkProducts" : "technicalSpecificationTaskWorkProducts",
+    "systemTechnicalSpecification" : "systemTechnicalSpecification",
+    "documentDirectoryEntryInstanceReference" : "777591"
+  },
+  "requestResponseRecord" : {}
+}

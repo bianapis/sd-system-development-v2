@@ -1,0 +1,11 @@
+{
+  "usageSpecificationUpdateActionTaskReference" : "USUATR719960",
+  "updateResponseRecord" : {},
+  "usageSpecificationUpdateActionTaskRecord" : {},
+  "usageSpecificationInstanceRecord" : {
+    "usageSpecificationTaskDefinition" : "usageSpecificationTaskDefinition",
+    "usageSpecificationTaskWorkProducts" : "usageSpecificationTaskWorkProducts",
+    "systemFunctionalSpecification" : "systemFunctionalSpecification",
+    "documentDirectoryEntryInstanceReference" : "712914"
+  }
+}
